@@ -1,1 +1,5 @@
 *.pyc
+UserProfile/backendSettings.dat
+UserProfile/cert.pem
+UserProfile/priv.pem
+Database/aether.db
