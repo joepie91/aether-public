@@ -16,7 +16,7 @@ from OpenSSL import SSL, crypto
 
 # Current Running Platform: A lot of things depend on this.. Anything about the filesystem, adding to boot etc.
 
-PLATFORM = 'OSX' # Possible values: OSX, WIN, LNX
+PLATFORM = 'LNX' # Possible values: OSX, WIN, LNX
 
 # Set this to true if the app received the open signal at boot, so I can hide the splash and the UI.as
 
